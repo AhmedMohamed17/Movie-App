@@ -1,2 +1,2 @@
 # Movie-App
-Movie site :clapper: ( refresh my mind )
+Movie site :clapper:
